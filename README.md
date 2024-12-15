@@ -1,1 +1,1 @@
-# Prep-Course-Henry-modulo-2
+Este es un archivo de como crear un repositorio y clonarlo desde github con mi computadora
